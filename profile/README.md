@@ -23,6 +23,6 @@
 ## 飞致云旗下其他开源组织
 
 - [JumpServer](https://github.com/jumpserver) - 广受欢迎的开源堡垒机
-- [MeterSphere](https://github.com/metersphere/) - 一站式开源自动化测试平台
+- [MeterSphere](https://github.com/metersphere/) - 一站式开源持续测试平台
 - [DataEase](https://github.com/DataEase/) - 人人可用的数据可视化分析工具
 - [Halo](https://github.com/halo-dev/) - 强大易用的开源建站工具
