@@ -15,8 +15,8 @@
 ## 相关链接
 
 - [官网](https://1panel.cn)
-- [论坛](https://bbs.fit2cloud.com/c/1p/7)
-- [文档](https://1panel.cn/docs)
+- [论坛求助](https://bbs.fit2cloud.com/c/1p/7)
+- [使用手册](https://1panel.cn/docs)
 - [应用商店](https://apps.fit2cloud.com/1panel)
 - [教学视频](https://space.bilibili.com/510493147/channel/collectiondetail?sid=1199760)
 
