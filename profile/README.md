@@ -10,7 +10,8 @@
 
 <hr/>
 
-1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。
+<p align="center"><img src="https://resource.fit2cloud.com/1panel/img/overview.png" alt="1Panel" /></p>
+
 
 ## 相关链接
 
